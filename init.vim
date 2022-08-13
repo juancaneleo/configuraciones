@@ -19,7 +19,8 @@ set scrolloff=8
 set relativenumber
 set nu rnu
 
-
+":CocInstall coc-json coc-tsserver coc-css coc-pyright coc-emmet coc-java
+"coc-pairs
 
 
 
